@@ -2,9 +2,9 @@
 
 ## 12.6.5221 / unreleased
 
-###
-
 - [DEBIAN] use the new GPG signing key for the apt.datadoghq.com repository
+- [DEBIAN] update the Debian base image to stretch
+- [JMX] ship openjdk 8u151
 
 ## 12.5.5202 / 2018-01-04
 
